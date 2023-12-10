@@ -1,12 +1,22 @@
 # Convolutional Neural Network Deep Learning Project
 
-This is a project where I built the LE-NET 5 Convolutional Neural Network Deep Learning Model to classify the MNIST Dataset. The project has two parts. There will be both and implementation using the Tensorflow API aswell as by scratch. 
+This is a project where I built the LE-NET 5 Convolutional Neural Network Deep Learning Model to classify the MNIST Dataset. The project has two parts.   
+There will be both an implementation using the Tensorflow API aswell as by scratch. 
 
 ## Project Overview
 
 ### Objective
 
-The main goal of this project is to train a LE-NET 5 Convolutional Neural Network to classify the MNIST Dataset. A normal Neural Network will be utilised to compare against LE-NET 5.
+The main goal of this project is to train a LE-NET 5 Convolutional Neural Network to classify the MNIST Dataset.  
+A normal Neural Network will be utilised to compare against LE-NET 5.
+
+### The MNIST Dataset
+
+The MNIST (Modified National Institute of Standards and Technology) dataset is a widely used benchmark dataset in the field of machine learning and computer vision.  
+It consists of a collection of 28x28 pixel grayscale images of handwritten digits (0 through 9).  
+The dataset is divided into two main subsets: a training set with 60,000 images and a test set with 10,000 images.  
+Each image is labeled with the corresponding digit it represents. 
+Data was downloaded from here : http://yann.lecun.com/exdb/mnist/
 
 ### Features
 
