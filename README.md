@@ -46,6 +46,9 @@ Data was downloaded from here : http://yann.lecun.com/exdb/mnist/
     pip install matplotlib
     pip install gzip
     pip install idx2numpy
+    pip install pandas
+    pip install tensorflow
+    pip install sklearn
     ```
 
 ## Acknowledgments
